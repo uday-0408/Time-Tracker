@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/uday-0408/Time_tracker_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/uday-0408/Time_tracker_frontend.git
